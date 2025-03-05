@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Quicksand:wght@300..700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-lucky: 'Luckiest Guy', 'cursive';
+  --font-quicksand: 'Quicksand', 'sans serif'
+}
