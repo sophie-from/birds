@@ -54,7 +54,7 @@ const BirdFinder = () => {
            
         <button
           onClick={getBird}
-          className="hover:bg-pink-600 w-2/3 text-white  bg-indigo-800 font-lucky text-6xl p-3 rounded-xl drop-shadow-3xl"
+          className="hover:bg-red-600 w-2/3 text-white  bg-indigo-800 font-lucky text-6xl p-3 rounded-xl drop-shadow-3xl"
         >
           What bird?
         </button>

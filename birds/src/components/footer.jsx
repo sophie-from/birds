@@ -1,6 +1,6 @@
 const Footer = () => {
     return (
-        <div className="flex flex-row sticky mb-0 -black justify-start h-1/5">
+        <div className="flex flex-row sticky mb-0 -black justify-start h-1/5 w-full">
             <div>
             <h3 className="font-quicksand text-base font-bold">Follow</h3>
             <ul>
