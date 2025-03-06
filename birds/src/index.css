@@ -6,3 +6,9 @@
   --font-lucky: 'Luckiest Guy', 'cursive';
   --font-quicksand: 'Quicksand', 'sans serif'
 }
+
+@layer base {
+   body {
+    @apply bg-gradient-to-b from-yellow-300 to-amber-600 min-h-screen flex flex-col flex-wrap    
+  }
+}
