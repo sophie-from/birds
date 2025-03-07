@@ -9,7 +9,7 @@ import HomePage from "./pages/HomePage.jsx";
 function App() {
 
   return (
-<HashRouter basename="/">
+<HashRouter >
 <Header/>
 <Routes>
   <Route path="/" element={<HomePage/>}></Route>
