@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://sophie-from.github.io/birds",
+  "homepage":"https://sophie-from.github.io/birds#",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
