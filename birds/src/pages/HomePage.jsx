@@ -1,4 +1,3 @@
-import Header from "../components/header";
 import BirdFinder from "../components/BirdFinder";
 
 const HomePage = () => {
@@ -14,7 +13,6 @@ const HomePage = () => {
     <BirdFinder/>
     </div>
 </div>
-{/* <div id="Quiz" className='flex flex-row flex-1 shrink text-orange-50 w-2/3 h-3/4 p-3 justify-center m-5 rounded-xl shadow-2xl align-middle mt-5'>helo</div> */}
     </div>
     </>
     )

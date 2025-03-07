@@ -1,5 +1,3 @@
-import BirdFinder from "./components/BirdFinder";
-import Navigation from './components/nav';
 import Header from './components/header';
 import Footer from './components/footer';
 import { HashRouter, Routes, Route } from "react-router";
